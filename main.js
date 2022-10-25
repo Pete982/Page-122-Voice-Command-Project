@@ -105,5 +105,5 @@ function speak(){
 
 function preload(){
 
-  apple = loadImage("apple.png");
+  draw_apple = loadImage("apple.png");
 }
